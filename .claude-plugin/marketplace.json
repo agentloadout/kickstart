@@ -1,0 +1,17 @@
+{
+  "name": "kickstart",
+  "description": "Kickstart by Loadout, a Claude Code plugin.",
+  "owner": {
+    "name": "Loadout",
+    "email": "info@agentloadout.com"
+  },
+  "plugins": [
+    {
+      "name": "kickstart-by-loadout",
+      "source": "./",
+      "description": "Start a business from scratch with your AI, step by step: founder fit, niche and proof, positioning, an offer with a price, a name with domain and handle checks, a brand kit, core messaging, a launch checklist, a first-customers plan and a one-page business plan, saved as files you can use today.",
+      "version": "1.0.0",
+      "category": "business"
+    }
+  ]
+}

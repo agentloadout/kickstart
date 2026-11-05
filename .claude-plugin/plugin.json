@@ -1,0 +1,29 @@
+{
+  "name": "kickstart-by-loadout",
+  "displayName": "Kickstart by Loadout",
+  "version": "1.0.0",
+  "description": "Start a business from scratch with your AI, step by step: founder fit, niche and proof, positioning, an offer with a price, a name with domain and handle checks, a brand kit, core messaging, a launch checklist, a first-customers plan and a one-page business plan, saved as files you can use today.",
+  "author": {
+    "name": "Loadout",
+    "email": "info@agentloadout.com",
+    "url": "https://agentloadout.com"
+  },
+  "homepage": "https://agentloadout.com",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "start a business",
+    "small business",
+    "business plan",
+    "naming",
+    "branding",
+    "positioning",
+    "offer",
+    "first customers",
+    "founder"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://agentloadout.com",
+  "supportUrl": "https://agentloadout.com",
+  "privacyPolicyUrl": "https://app.agentloadout.com/privacy",
+  "termsOfServiceUrl": "https://app.agentloadout.com/terms"
+}
